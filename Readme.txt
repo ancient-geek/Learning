@@ -1,6 +1,19 @@
 Title
 =======
 
+
+git clone htt[s: etc
+
+cd folder
+
+Add code then:
+
+git add --all
+git commit --all
+git push origin HEAD:master
+
+
+
 This is a readme file for my first Git repository. It includes a variety of formatting to test the Git markdown .md file format...
 
 Heading 1
